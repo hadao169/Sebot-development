@@ -1,0 +1,7 @@
+{
+  "package_name": "motordriver_msgs",
+  "output_dir": "/home/k5001682/ros2_ws/build/motordriver_msgs/rosidl_generator_type_description/motordriver_msgs",
+  "idl_tuples": [
+    "/home/k5001682/ros2_ws/build/motordriver_msgs/rosidl_adapter/motordriver_msgs:msg/MotordriverMessage.idl"
+  ]
+}

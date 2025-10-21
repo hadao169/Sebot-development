@@ -1,0 +1,6 @@
+{
+  "package_name": "motordriver_msgs",
+  "non_idl_tuples": [
+    "/home/k5001682/ros2_ws/src/motordriver_msgs:msg/MotordriverMessage.msg"
+  ]
+}

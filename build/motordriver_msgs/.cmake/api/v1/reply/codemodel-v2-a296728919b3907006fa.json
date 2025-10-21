@@ -1,0 +1,242 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-9866a31ebdfa6b530553.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "motordriver_msgs__py",
+					"jsonFile" : "directory-motordriver_msgs__py-70e6da612730d3cbb254.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/k5001682/ros2_ws/build/motordriver_msgs/motordriver_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "motordriver_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_motordriver_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_motordriver_msgs_egg-208ae50c7b6ecce2ea06.json",
+					"name" : "ament_cmake_python_build_motordriver_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_motordriver_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_motordriver_msgs-afc7d826a27b6a1ade97.json",
+					"name" : "ament_cmake_python_copy_motordriver_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs-9462fdad7e68595fdcde.json",
+					"name" : "motordriver_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__cpp-327a25b8a589a78aecd8.json",
+					"name" : "motordriver_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "motordriver_msgs__py::@7c41ff85c7224905f137",
+					"jsonFile" : "target-motordriver_msgs__py-3cc207b1c4503405e1c8.json",
+					"name" : "motordriver_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_generator_c-5ba656cc29922c0903be.json",
+					"name" : "motordriver_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_generator_py-d2261574e84d053c88f5.json",
+					"name" : "motordriver_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_generator_type_description-a580d7942b55ae35f84f.json",
+					"name" : "motordriver_msgs__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_typesupport_c-78175ab3300f9db7c68c.json",
+					"name" : "motordriver_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_typesupport_cpp-e6cfbfb4aaf5e571b4ca.json",
+					"name" : "motordriver_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_typesupport_fastrtps_c-27c364a9e4400de526a5.json",
+					"name" : "motordriver_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_typesupport_fastrtps_cpp-38a44ddf612737cf4a52.json",
+					"name" : "motordriver_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_typesupport_introspection_c-c8f275535a363fb57193.json",
+					"name" : "motordriver_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs__rosidl_typesupport_introspection_cpp-b9f72897cbd409e4c913.json",
+					"name" : "motordriver_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs_s__rosidl_typesupport_c-c63eee441a38bdda9fff.json",
+					"name" : "motordriver_msgs_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs_s__rosidl_typesupport_fastrtps_c-d8bcde2a7bcbaf73031d.json",
+					"name" : "motordriver_msgs_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs_s__rosidl_typesupport_introspection_c-c6ab9240ddb7cba4c05c.json",
+					"name" : "motordriver_msgs_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "motordriver_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-motordriver_msgs_uninstall-6484112794b6cce9768d.json",
+					"name" : "motordriver_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b982eab59971b0b67b93.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/k5001682/ros2_ws/build/motordriver_msgs",
+		"source" : "/home/k5001682/ros2_ws/src/motordriver_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

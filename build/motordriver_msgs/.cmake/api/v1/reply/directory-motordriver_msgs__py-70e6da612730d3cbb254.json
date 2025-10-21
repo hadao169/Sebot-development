@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "motordriver_msgs__py",
+		"source" : "/home/k5001682/ros2_ws/build/motordriver_msgs/motordriver_msgs__py"
+	}
+}

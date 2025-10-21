@@ -1,0 +1,17 @@
+running egg_info
+writing ../../build/motordriver/motordriver.egg-info/PKG-INFO
+writing dependency_links to ../../build/motordriver/motordriver.egg-info/dependency_links.txt
+writing requirements to ../../build/motordriver/motordriver.egg-info/requires.txt
+writing top-level names to ../../build/motordriver/motordriver.egg-info/top_level.txt
+reading manifest file '../../build/motordriver/motordriver.egg-info/SOURCES.txt'
+writing manifest file '../../build/motordriver/motordriver.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/k5001682/ros2_ws/install/motordriver/lib/python3.12/site-packages/motordriver-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/motordriver/motordriver.egg-info to /home/k5001682/ros2_ws/install/motordriver/lib/python3.12/site-packages/motordriver-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/k5001682/ros2_ws/build/motordriver/install.log'

@@ -1,0 +1,2 @@
+[console_scripts]
+motordriver = motordriver.motordriver:main

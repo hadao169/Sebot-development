@@ -1,0 +1,42 @@
+[0.006s] Invoking command in '/home/k5001682/ros2_ws/build/motordriver_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy:/home/k5001682/ros2_ws/install/motordriver DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/k5001682/ros2_ws/src/motordriver_msgs -DCMAKE_INSTALL_PREFIX=/home/k5001682/ros2_ws/install/motordriver_msgs
+[0.140s] -- The C compiler identification is GNU 13.3.0
+[0.223s] -- The CXX compiler identification is GNU 13.3.0
+[0.241s] -- Detecting C compiler ABI info
+[0.327s] -- Detecting C compiler ABI info - done
+[0.337s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.337s] -- Detecting C compile features
+[0.337s] -- Detecting C compile features - done
+[0.345s] -- Detecting CXX compiler ABI info
+[0.419s] -- Detecting CXX compiler ABI info - done
+[0.427s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.427s] -- Detecting CXX compile features
+[0.427s] -- Detecting CXX compile features - done
+[0.430s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.536s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.607s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.668s] -- Added test 'lint_cmake' to check CMake code style
+[0.669s] -- Added test 'xmllint' to check XML markup files
+[0.669s] -- Configuring done (0.7s)
+[0.671s] -- Generating done (0.0s)
+[0.672s] -- Build files have been written to: /home/k5001682/ros2_ws/build/motordriver_msgs
+[0.676s] Invoked command in '/home/k5001682/ros2_ws/build/motordriver_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy:/home/k5001682/ros2_ws/install/motordriver DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/k5001682/ros2_ws/src/motordriver_msgs -DCMAKE_INSTALL_PREFIX=/home/k5001682/ros2_ws/install/motordriver_msgs
+[0.676s] Invoking command in '/home/k5001682/ros2_ws/build/motordriver_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy:/home/k5001682/ros2_ws/install/motordriver DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/k5001682/ros2_ws/build/motordriver_msgs -- -j20 -l20
+[0.701s] Invoked command in '/home/k5001682/ros2_ws/build/motordriver_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy:/home/k5001682/ros2_ws/install/motordriver DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/k5001682/ros2_ws/build/motordriver_msgs -- -j20 -l20
+[0.708s] Invoking command in '/home/k5001682/ros2_ws/build/motordriver_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy:/home/k5001682/ros2_ws/install/motordriver DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/k5001682/ros2_ws/build/motordriver_msgs
+[0.714s] -- Install configuration: ""
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/ament_index/resource_index/package_run_dependencies/motordriver_msgs
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/ament_index/resource_index/parent_prefix_path/motordriver_msgs
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/environment/ament_prefix_path.sh
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/environment/ament_prefix_path.dsv
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/environment/path.sh
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/environment/path.dsv
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/local_setup.bash
+[0.714s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/local_setup.sh
+[0.715s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/local_setup.zsh
+[0.715s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/local_setup.dsv
+[0.715s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/package.dsv
+[0.715s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/ament_index/resource_index/packages/motordriver_msgs
+[0.715s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/cmake/motordriver_msgsConfig.cmake
+[0.715s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/cmake/motordriver_msgsConfig-version.cmake
+[0.715s] -- Installing: /home/k5001682/ros2_ws/install/motordriver_msgs/share/motordriver_msgs/package.xml
+[0.716s] Invoked command in '/home/k5001682/ros2_ws/build/motordriver_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy:/home/k5001682/ros2_ws/install/motordriver DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/k5001682/ros2_ws/build/motordriver_msgs

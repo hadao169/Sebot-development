@@ -1,0 +1,19 @@
+{
+  "package_name": "motordriver_msgs",
+  "output_dir": "/home/k5001682/ros2_ws/build/motordriver_msgs/rosidl_typesupport_fastrtps_c/motordriver_msgs",
+  "template_dir": "/opt/ros/jazzy/share/rosidl_typesupport_fastrtps_c/resource",
+  "idl_tuples": [
+    "/home/k5001682/ros2_ws/build/motordriver_msgs/rosidl_adapter/motordriver_msgs:msg/MotordriverMessage.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/jazzy/lib/rosidl_typesupport_fastrtps_c/rosidl_typesupport_fastrtps_c",
+    "/opt/ros/jazzy/lib/python3.12/site-packages/rosidl_typesupport_fastrtps_c/__init__.py",
+    "/opt/ros/jazzy/share/rosidl_typesupport_fastrtps_c/resource/idl__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_fastrtps_c/resource/idl__type_support_c.cpp.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_fastrtps_c/resource/msg__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_fastrtps_c/resource/msg__type_support_c.cpp.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_fastrtps_c/resource/srv__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_fastrtps_c/resource/srv__type_support_c.cpp.em",
+    "/home/k5001682/ros2_ws/build/motordriver_msgs/rosidl_adapter/motordriver_msgs/msg/MotordriverMessage.idl"
+  ]
+}
