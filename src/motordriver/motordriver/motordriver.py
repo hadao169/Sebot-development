@@ -12,25 +12,31 @@ try:
   from .simserial import SimSerial
 except:
   from simserial import SimSerial
-
+  
 class MotordriverNode(Node):
   def __init__(self):
     super().__init__('motordriver_node')
 
     self.msg = "x\n"
     self.timercount = 0
-
     self.declare_parameter('simulation', True)
     self.simulation = self.get_parameter('simulation').value
+
+    # Get parameters for serial port configuration
+    port = self.get_parameter("port").get_parameter_value().string_value
+    baudrate = self.get_parameter("baudrate").get_parameter_value().integer_value
+    timeout = self.get_parameter("timeout").get_parameter_value().double_value
+
     self.get_logger().info(f'Starting motor_controller in simulation: {self.simulation}')
     if self.simulation:
-      self.arduino = SimSerial()
+      self.arduino = SimSerial(port, baudrate, timeout=timeout)
     else:
-      self.arduino = serial.Serial("/dev/ttyACM0", 115200, timeout=1)
+
+      self.arduino = serial.Serial()
       if not self.arduino.isOpen():
         raise Exception("No connection to motor controller")
 
-
+    self.arduino.write(("ALIVE;1;\n").encode())
 
     self.subscriber = self.create_subscription(
         String,

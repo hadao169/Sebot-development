@@ -1,3 +1,6 @@
 motordriver_node:
   ros__parameters:
     simulation: False
+    port: "/dev/ttyACM0"
+    baudrate: 115200
+    timeout: 1
